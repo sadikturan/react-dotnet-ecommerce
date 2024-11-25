@@ -1,0 +1,17 @@
+.NET Kurulum Linkleri
+
+Windows:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.100-windows-x64-installer
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.100-windows-x86-installer
+
+MacOs:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.100-macos-arm64-installer
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.100-macos-x64-installer
+
+Linux:
+
+https://learn.microsoft.com/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website
