@@ -1,0 +1,17 @@
+** dotnet-ef komutu için;
+dotnet tool install --global dotnet-ef 
+
+** dotnet-ef araçlarının güncellenmesi;
+dotnet tool update --global dotnet-ef
+
+** dotnet-ef yardım dökümanı;
+dotnet ef
+
+** migration ekleme
+dotnet ef migrations add InitialCreate
+
+** database güncellenmesi
+dotnet ef database update
+
+
+
