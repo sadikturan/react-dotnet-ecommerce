@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "whv9WwXQRJo=",
+  "success": true,
+  "projectFilePath": "D:\\Drive\\Drive'ım\\Github\\react-dotnet-ecommerce\\src\\2_2_dotnet_api_projesi\\e-commerce\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadik\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\sadik\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
