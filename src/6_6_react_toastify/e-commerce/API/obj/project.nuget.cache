@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3wVMujaUThA=",
+  "dgSpecHash": "ohtzq1ZJykM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sadik\\Desktop\\e-commerce\\aPI\\API.csproj",
+  "projectFilePath": "D:\\Drive\\Drive'ım\\Github\\react-dotnet-ecommerce\\src\\6_6_react_toastify\\e-commerce\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sadik\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sadik\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",

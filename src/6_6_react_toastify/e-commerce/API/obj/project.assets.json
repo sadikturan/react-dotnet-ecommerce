@@ -3189,11 +3189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadik\\Desktop\\e-commerce\\API\\API.csproj",
+      "projectUniqueName": "D:\\Drive\\Drive'ım\\Github\\react-dotnet-ecommerce\\src\\6_6_react_toastify\\e-commerce\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\sadik\\Desktop\\e-commerce\\API\\API.csproj",
+      "projectPath": "D:\\Drive\\Drive'ım\\Github\\react-dotnet-ecommerce\\src\\6_6_react_toastify\\e-commerce\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sadik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadik\\Desktop\\e-commerce\\API\\obj\\",
+      "outputPath": "D:\\Drive\\Drive'ım\\Github\\react-dotnet-ecommerce\\src\\6_6_react_toastify\\e-commerce\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
